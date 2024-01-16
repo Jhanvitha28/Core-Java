@@ -2,7 +2,7 @@ class Calculate1 {
     protected final int x = 8;
 
     protected final int radius(int input) {
-        return input * input * input;
+        return  input * input;
     }
 }
 public class Calculatuion extends Calculate1 {
