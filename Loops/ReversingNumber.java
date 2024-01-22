@@ -1,3 +1,5 @@
+package Loops;
+
 public class ReversingNumber {
     int reverse(int n){
         int rem;

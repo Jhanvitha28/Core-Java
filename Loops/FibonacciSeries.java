@@ -1,3 +1,5 @@
+package Loops;
+
 public class FibonacciSeries {
     public static void main(String[] args) {
         int num = 10;
