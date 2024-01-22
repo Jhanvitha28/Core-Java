@@ -1,3 +1,4 @@
+package Arrays;
 
 public class ZeroAtEnd{
     public int[] relativeOrder(int[] arr)

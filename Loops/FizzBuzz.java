@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-package Loops;public class FizzBuzz {
-}
-=======
+
+package Loops;
+
 public class FizzBuzz {
     public static void main(String[] args){
         for(int i=0;i<=100;i++){
@@ -21,4 +20,4 @@ public class FizzBuzz {
         }
     }
 }
->>>>>>> origin/jhanvitha28
+
