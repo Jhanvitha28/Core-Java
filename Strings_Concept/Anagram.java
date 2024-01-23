@@ -2,13 +2,12 @@ package Strings_Concept;
 
 // Java program to check whether two strings
 // are anagrams of each other
-import java.io.*;
+
 import java.util.Arrays;
 import java.util.Collections;
 
 class Anagram{
-    // Function to check whether two strings
-    // are anagram of each other
+
     static boolean areAnagram(char[] str1, char[] str2)
     {
         // Get lengths of both strings
@@ -35,8 +34,8 @@ class Anagram{
     // Driver Code
     public static void main(String args[])
     {
-        char str1[] = { 't', 'e', 's', 't' };
-        char str2[] = { 't', 't', 'e', 'w' };
+        char str1[] = { 'j', 'a', 'n', 'u' };
+        char str2[] = { 'a', 'n', 'j', 'u' };
 
         // Function Call
         if (areAnagram(str1, str2))
