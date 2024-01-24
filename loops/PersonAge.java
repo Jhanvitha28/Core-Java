@@ -1,4 +1,4 @@
-package Loops;
+package loops;
 
 public class PersonAge {
     public void Age(int a){

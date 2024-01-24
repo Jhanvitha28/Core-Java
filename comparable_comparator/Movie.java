@@ -1,4 +1,4 @@
-package Comparable_comparator;
+package comparable_comparator;
 import java.util.Comparator;
 
 public class Movie {
